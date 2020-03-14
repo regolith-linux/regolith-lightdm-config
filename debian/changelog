@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.0.1) eoan; urgency=medium
+
+  * Show user avatar.
+  * Add package dependencies. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Fri, 13 Mar 2020 19:06:35 -0700
+
 regolith-lightdm-config (1.0-1) eoan; urgency=medium
 
   * Initial release
