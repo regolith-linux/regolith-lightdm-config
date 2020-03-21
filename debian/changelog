@@ -1,3 +1,9 @@
+regolith-lightdm-config (1.0.2) eoan; urgency=medium
+
+  * Change font from Ubuntu to SCP. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 21 Mar 2020 14:33:17 -0700
+
 regolith-lightdm-config (1.0.1) eoan; urgency=medium
 
   * Show user avatar.
