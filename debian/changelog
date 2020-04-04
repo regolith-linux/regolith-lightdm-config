@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.0.4) eoan; urgency=medium
+
+  * Fix typo in control.
+  * Use Adwaita icons for smaller footprint. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 04 Apr 2020 11:21:38 -0700
+
 regolith-lightdm-config (1.0.3) eoan; urgency=medium
 
   * Model dependencies correctly. 

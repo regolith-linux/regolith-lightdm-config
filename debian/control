@@ -10,7 +10,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
     cahuella,
     fonts-source-code-pro-ttf,
-    lightdm-gtk-greeter
+    lightdm-gtk-greeter,
     lightdm,
-    paper-icon-theme,
+    adwaita-icon-theme
 Description: Branding relating to Regolith for LightDM
