@@ -1,3 +1,9 @@
+regolith-lightdm-config (1.0.3) eoan; urgency=medium
+
+  * Model dependencies correctly. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 04 Apr 2020 09:56:43 -0700
+
 regolith-lightdm-config (1.0.2) eoan; urgency=medium
 
   * Change font from Ubuntu to SCP. 
