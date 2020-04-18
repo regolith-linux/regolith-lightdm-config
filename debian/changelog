@@ -1,3 +1,9 @@
+regolith-lightdm-config (1.0.5-1) eoan; urgency=medium
+
+  * Tweaks to lightdm theme.
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 18 Apr 2020 12:35:39 -0700
+
 regolith-lightdm-config (1.0.4) eoan; urgency=medium
 
   * Fix typo in control.
