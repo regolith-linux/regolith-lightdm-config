@@ -1,3 +1,11 @@
+regolith-lightdm-config (1.1.0-1ubuntu1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * experimental visual changes to login UI
+  * More UI changes for consistency w/ default look
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 02 May 2021 12:04:52 -0700
+
 regolith-lightdm-config (1.0.6-1) eoan; urgency=medium
 
   * Fix dependencies.  Use Ubuntu default theme elements. 
