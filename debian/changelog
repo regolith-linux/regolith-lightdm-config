@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.1.1-1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Revert to original source due to artifacts in 4K displays
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Wed, 12 May 2021 23:07:58 -0700
+
 regolith-lightdm-config (1.1.0-1ubuntu1) focal; urgency=medium
 
   [ Ken Gilmer ]
