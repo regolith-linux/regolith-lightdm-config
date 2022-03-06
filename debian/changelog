@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.1.2) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Update dependencies for Regolith 2
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 05 Mar 2022 19:13:11 -0800
+
 regolith-lightdm-config (1.1.1-1) focal; urgency=medium
 
   [ Ken Gilmer ]

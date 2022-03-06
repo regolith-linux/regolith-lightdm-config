@@ -8,9 +8,9 @@ Standards-Version: 4.1.2
 Package: regolith-lightdm-config
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
-    ayu-theme,
     adwaita-icon-theme,
-    fonts-jetbrains-mono,
+    ayu-theme,
+    fonts-nerd-font-jetbrainsmono,
     lightdm-gtk-greeter,
     lightdm
 Description: Branding relating to Regolith for LightDM
