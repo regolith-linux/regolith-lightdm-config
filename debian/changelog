@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.3.1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Remove gsetting override, not working for background, fall back to config file for slick-greeter
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 18 Jun 2022 21:13:26 -0700
+
 regolith-lightdm-config (1.3.0) focal; urgency=medium
 
   [ Ken Gilmer ]
