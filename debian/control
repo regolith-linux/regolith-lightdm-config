@@ -8,7 +8,7 @@ Standards-Version: 4.1.2
 Package: regolith-lightdm-config
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
-    adwaita-icon-theme,
+    papirus-icon-theme,
     ayu-theme,
     fonts-nerd-font-dejavusansmono,
     slick-greeter,
