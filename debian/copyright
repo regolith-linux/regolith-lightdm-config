@@ -2,6 +2,12 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: regolith-lightdm-config
 Source: https://github.com/regolith-linux
 
+Files: usr/share/backgrounds/pia21972.png
+Copyright: NASA/JPL-Caltech/SwRI/MSSS/Gerald Eichstädt /Seán Doran
+License: CC-BY-NC-SA
+ All artwork and assets are licensed under the Creative Commons
+ Attribution-ShareAlike 4.0 International license (CC-BY-NC-SA-4.0).
+
 Files: *
 Copyright: 2020 Ken Gilmer kgilmer@gmail.com
 License: GPL-2+
