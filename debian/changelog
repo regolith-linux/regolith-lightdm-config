@@ -1,3 +1,10 @@
+regolith-lightdm-config (1.3.5) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Add attribution for NASA Juno image
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Fri, 15 Jul 2022 17:28:38 -0700
+
 regolith-lightdm-config (1.3.4) focal; urgency=medium
 
   [ Ken Gilmer ]
